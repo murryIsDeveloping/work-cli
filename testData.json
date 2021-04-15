@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Marcus",
+      "age": 40,
+      "active": true
+    },
+    {
+      "name": "Steve",
+      "age": 40,
+      "active": true,
+      "address": {
+        "street": "this",
+        "state": "NSW",
+        "number": 406
+      }
+    }
+  ]
+}
